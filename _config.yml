@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuming Shi / Yuming's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuming Shi"
 description              : &description "Master of Research in Ecology, Evolution and Conservation at Imperial College London"
 url                      : https://github.com/YumingShi25/YumingShi25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yuming Shi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "MRes in Ecology, Evolution and Conservation at Imperial College London, interested in bee, ecotoxicology and bioinformatics"
+  location         : "Egham, United Kingdom"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "yuming.shi.25@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "YumingShi25"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yuming-shi-70077a202/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "yumingshi25"
   vine             :
   weibo            :
   xing             :
