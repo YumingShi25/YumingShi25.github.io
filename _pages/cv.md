@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Res. in Ecology, Evolution and Conservation, Imperial College London, UK, 2021 - 2022
+* B.S in Ecology, Jinan University, China, 2017 - 2021
+* B.S in Biology/Molecular Biology, Uppsala University, Sweden, 2020 - 2021 (Undergrad 3+1 exchange student dual degree)
+* LL.B in Law, Jinan University, China, 2018 - 2020 (minor)
 
 Work experience
 ======
@@ -42,17 +43,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
